@@ -39,5 +39,8 @@ cd results/cutmix
 tensorboard --logdir logs
 ```
 
+# Reference
+https://github.com/Lornatang/AlexNet-PyTorch.git
+
 
 
